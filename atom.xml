@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Mumu&#39;s Blog</title>
+  <subtitle>Let it be</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://amumu.win/"/>
+  <updated>2017-01-28T03:03:50.483Z</updated>
+  <id>http://amumu.win/</id>
+  
+  <author>
+    <name>Mumu</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>欢迎来到我的部落格!</title>
+    <link href="http://amumu.win/2017/01/28/%E6%AC%A2%E8%BF%8E/"/>
+    <id>http://amumu.win/2017/01/28/欢迎/</id>
+    <published>2017-01-27T18:18:29.000Z</published>
+    <updated>2017-01-28T03:03:50.483Z</updated>
+    
+    <content type="html"><![CDATA[<p><style><br>iframe:hover {<br>   width: 500px;<br>}<br>.span1{<br>font: bolder 20px/25px “microsoft yahei”;<br>text-shadow:1px 1px 3px #f00;<br>}</p>
+<p></style></p>
+<iframe style=" position:fixed;right:0; z-index:50;transition: 0.5s" frameborder="no" border="2" marginwidth="0" marginheight="0" width="50" height="300" src="//music.163.com/outchain/player?type=0&id=584369250&auto=1&height=80"></iframe>
+
+
+<hr>
+<p><span class="span1">这是我的第一个个人博客,千里之行始于足下,我会在这里记录下自己的点点滴滴.一些基本的发表文章步骤记录如下:</span></p>
+<hr>
+<blockquote>
+<p> Create a new post</p>
+</blockquote>
+<figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">&gt;$ hexo new <span class="string">"My New Post"</span></div></pre></td></tr></table></figure>
+<blockquote>
+<p>Run server</p>
+</blockquote>
+<figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo server</div></pre></td></tr></table></figure>
+<blockquote>
+<p>Generate static files</p>
+</blockquote>
+<figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo generate</div></pre></td></tr></table></figure>
+<blockquote>
+<p>Deploy to remote sites</p>
+</blockquote>
+<figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo deploy</div></pre></td></tr></table></figure>
+<p> <a href="https://hexo.io/zh-cn/docs/writing.html" target="_blank" rel="external">更多信息点我</a></p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;style&gt;&lt;br&gt;iframe:hover {&lt;br&gt;   width: 500px;&lt;br&gt;}&lt;br&gt;.span1{&lt;br&gt;font: bolder 20px/25px “microsoft yahei”;&lt;br&gt;text-shadow:1px 1px 3px #f0
+    
+    </summary>
+    
+    
+      <category term="欢迎页" scheme="http://amumu.win/tags/%E6%AC%A2%E8%BF%8E%E9%A1%B5/"/>
+    
+  </entry>
+  
+</feed>
